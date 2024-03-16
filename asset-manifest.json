@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.45a77744.css",
-    "main.js": "/static/js/main.74480f00.js",
+    "main.css": "/static/css/main.4df8e089.css",
+    "main.js": "/static/js/main.d0073e13.js",
     "static/js/787.8052bec3.chunk.js": "/static/js/787.8052bec3.chunk.js",
     "static/media/space.jpg": "/static/media/space.a92e233b4a37bf528ceb.jpg",
+    "static/media/background.jpg": "/static/media/background.db217671cf40f819158f.jpg",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/aymen.jpg": "/static/media/aymen.308cbe05079c3656759c.jpg",
     "static/media/aymen.png": "/static/media/aymen.cdb64bd9a5dff647513e.png",
     "static/media/getInTouch2.png": "/static/media/getInTouch2.68d1b9db28191a994772.png",
-    "static/media/space6.jpg": "/static/media/space6.e2d00d8bfc50b342db1b.jpg",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/aymen-logo.png": "/static/media/aymen-logo.0ae3f253f4611aa6dd17.png",
-    "static/media/logo.png": "/static/media/logo.70365208f047b2d6d2d4.png",
     "static/media/translation.png": "/static/media/translation.177262c03719f7e32585.png",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -29,12 +29,12 @@
     "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.45a77744.css.map": "/static/css/main.45a77744.css.map",
-    "main.74480f00.js.map": "/static/js/main.74480f00.js.map",
+    "main.4df8e089.css.map": "/static/css/main.4df8e089.css.map",
+    "main.d0073e13.js.map": "/static/js/main.d0073e13.js.map",
     "787.8052bec3.chunk.js.map": "/static/js/787.8052bec3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45a77744.css",
-    "static/js/main.74480f00.js"
+    "static/css/main.4df8e089.css",
+    "static/js/main.d0073e13.js"
   ]
 }
